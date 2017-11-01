@@ -1,0 +1,66 @@
+#welcome {
+  /*max-width:800px;*/
+  margin:0 auto;
+}
+
+#features .item i {
+  font-size:100px;
+  font-weight:100;
+  color:#006cff;
+}
+
+#features .item h3 {
+  padding-top:10px;
+  padding-bottom:10px;
+  font-weight:normal;
+}
+
+.features-section {
+  padding-bottom:120px;
+  padding-top:130px;
+  /*background:url(../../assets/img/doodles/dark.png);*/
+  background-size:60%;
+}
+
+.site-section {
+  /*max-width:800px;*/
+  padding-top:20px;
+  /*padding-bottom:-10px;*/
+  /*margin:auto;*/
+  /*margin-top:60px;*/
+  text-align:center;
+  margin-bottom:-10px;
+  /*margin-left:15em;*/
+  /*margin-right:15em;*/
+}
+
+#features.container.site-section {
+  font-size:large;
+  margin-top:-50px;
+}
+
+#welcome.container.site-section p {
+  /*font-size:30px;*/
+  padding-top:20px;
+  /*line-height:50px;*/
+  /*font-family:nunito;*/
+  /*font-family:dosis;*/
+  /*font-weight:100;*/
+  margin:-.5em;
+}
+
+.site-section h1 {
+  /*margin-top:40px;*/
+  /*margin:1em;*/
+  /*margin-bottom:20px;*/
+}
+
+#features.container-fluid.site-section h2 {
+  font-weight:400;
+  font-family:didact gothic;
+  color:rgb(100,100,100);
+  font-size:22px;
+  text-align:center;
+  margin-bottom:60px;
+}
+

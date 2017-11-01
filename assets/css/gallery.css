@@ -1,0 +1,23 @@
+.photo-gallery {
+  background:linear-gradient(0deg, #006cff, #ff5574);
+}
+
+#spacer-carousal {
+  /*height:9vw;*/
+  /*max-height:17vh;*/
+}
+
+@media (max-width:767px) {
+  #spacer-scrollbar {
+    height:calc(52vw - 20px);
+    max-height:460px;
+    min-height:360px;
+  }
+}
+
+#spacer-scrollbar {
+  height:calc(52vw - 20px);
+  max-height:460px;
+  min-height:360px;
+}
+

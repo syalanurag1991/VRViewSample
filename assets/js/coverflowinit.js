@@ -1,0 +1,1 @@
+$coverflow = $("#coverflow").coverflow({"path":"coverflow"});
